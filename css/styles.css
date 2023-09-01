@@ -10186,3 +10186,7 @@ form .row:first-child .floating-label-form-group {
 .btn-social {
   margin-bottom: 0.5rem;
 }
+
+.underline {
+  border-bottom: 1px solid black;
+}
