@@ -10197,8 +10197,9 @@ form .row:first-child .floating-label-form-group {
 
 .custom-link {
   color: black !important;
+  text-decoration: underline;
 }
 
 .custom-link:hover {
-  text-decoration: none !important;
+  color: #9cc3d5 !important;
 }
