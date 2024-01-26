@@ -10190,3 +10190,7 @@ form .row:first-child .floating-label-form-group {
 .underline {
   border-bottom: 1px solid black;
 }
+
+.b-y-1 {
+  border: 3px solid black;
+}
