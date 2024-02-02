@@ -10179,6 +10179,26 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
 }
 
+.clients {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 100px;
+  row-gap: 60px;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.icon-client {
+  display: flex;
+  height: 6rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: #fff;
+}
+
 .navbar-brand img {
   max-width: 13.5rem;
 }
